@@ -1,0 +1,69 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	margin-left: 10%;
+	margin-right: 10%;
+	border: 5px solid #DDDDDD;
+	border-radius: 24px;
+	padding: 10px 0 0 0;
+	width: 800px;
+	height: 1380px;
+}
+
+.container {
+	width: 535px;
+	padding-left: 15px;
+}
+
+.Name {
+	font-size: 34px;
+	padding-left: 70px;
+	color: #AF9C8A;
+	letter-spacing: 3px;
+	word-spacing: 4px;
+}
+
+.Contact {
+	color: #AF9C8A;
+	margin-top: -3%;
+}
+
+a {
+	color: #BD9D7D;
+}
+
+img {
+	float: right;
+	margin-right: 5%;
+}
+
+.objective {
+	margin-right: 24px;
+	margin-top: 24px;
+}
+
+.main {
+	width: 760px;
+	padding: 0 15px 0 15px;
+}
+
+.date {
+	float: right;
+}
+
+h3 {
+	font-size: 16px;
+}
+
+h4 {
+	border-bottom: 1px solid;
+}
+
+.position {
+	font-style: italic;
+}
+
+.impact-statement {
+	padding: 0 210px 0 210px;
+}
